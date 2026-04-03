@@ -1,2 +1,2 @@
 # SabrPBR
-https://ssbb.devs.kr
+https://sabrpbr.devs.kr
